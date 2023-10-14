@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭I'm currently in the early stages of building a strong foundation for my career.<br>📚 I’m currently learning competitive programming.<br>💬 Ask me about Flutter, React, HTML, Tailwind CSS, Firebase.<br>📫 How to reach me: <a  href="mailto:mailtodineshkv@gmail.com">Mail</a> <br>⚡ Fun fact: I love watching movies.<br>✨I find joy in crafting inspiring creations, and my ability to quickly grasp new concepts and skills is a valuable asset in this pursuit.</p>
+<p align="left">🔭I'm currently in the early stages of building a strong foundation for my career.<br>📚 I’m currently learning competitive programming.<br>💬 Ask me about Flutter, React, HTML, Tailwind CSS, Firebase.<br>📫 How to reach me: <a href="mailto:mailtodineshkv@gmail.com">Mail</a> <br>⚡ Fun fact: I love watching movies.<br>✨I find joy in crafting inspiring creations, and my ability to quickly grasp new concepts and skills is a valuable asset in this pursuit.</p>
 
 ###
 
@@ -82,6 +82,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
 ###
